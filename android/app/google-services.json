@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "871648088869",
+    "project_id": "time-flutter-test-app",
+    "storage_bucket": "time-flutter-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871648088869:android:867f8ce3c89fb7769740cc",
+        "android_client_info": {
+          "package_name": "com.temirlan.flutter_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871648088869-7nfvejgh9sjku8ol6ougretaml5mmslu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.temirlan.flutter_test_app",
+            "certificate_hash": "e9f24ce4bbc97c24b6c217b543d1ca926967996e"
+          }
+        },
+        {
+          "client_id": "871648088869-78j3jl22dki0qu9booehni4m89en0175.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrH1eIVZczrFXPo95N3bc5SMuEJnk8QCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871648088869-78j3jl22dki0qu9booehni4m89en0175.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
